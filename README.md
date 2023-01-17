@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hey! I am Maher Muhtadi
+#### a third year Computer Science student at Toronto Metropolitan University, Canada
+---
+📖 I’m currently learning more about web application development and the various tools available for producing excellent software.
 
-<!--
-**MaherMuhtadi/MaherMuhtadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 At the moment, I’m working on multiple personal projects that will gradually be made public here.
 
-Here are some ideas to get you started:
+ℹ Learn more about me through my personal portfolio website [https://www.maher-m.com/](https://www.maher-m.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at [mahermuhtadi27@gmail.com](mailto:mahermuhtadi27@gmail.com).
+
+---
+![](https://komarev.com/ghpvc/?username=MaherMuhtadi&color=green)
