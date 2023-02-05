@@ -10,4 +10,11 @@
 📫 You can reach me at [mahermuhtadi27@gmail.com](mailto:mahermuhtadi27@gmail.com).
 
 ---
+#### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaherMuhtadi&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaherMuhtadi&theme=tokyonight)
+
+---
 ![](https://komarev.com/ghpvc/?username=MaherMuhtadi&color=green)
+[![Github](https://img.shields.io/github/followers/MaherMuhtadi?label=Follow&style=social)](https://github.com/MaherMuhtadi)
