@@ -5,7 +5,7 @@
 
 🛠 At the moment, I’m working on multiple personal projects that will gradually be made public here.
 
-ℹ Learn more about me through my personal portfolio website [https://www.maher-m.com/](https://www.maher-m.com/).
+ℹ Learn more about me through my personal portfolio website [https://maher-m.com/](https://maher-m.com/).
 
 📫 You can reach me at [mahermuhtadi27@gmail.com](mailto:mahermuhtadi27@gmail.com).
 
