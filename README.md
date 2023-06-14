@@ -3,7 +3,7 @@
 ---
 📖 I’m currently learning more about web application development and the various tools available for producing excellent software.
 
-🛠 At the moment, I’m working on multiple personal projects that will gradually be made public here.
+🛠 At the moment, I’m working on a react.js chat application.
 
 ℹ Learn more about me through my personal portfolio website [https://maher-m.com/](https://maher-m.com/).
 
