@@ -1,5 +1,5 @@
 ### 👋 Hey! I am Maher Muhtadi
-#### a fourth year Computer Science student at Toronto Metropolitan University, Canada
+#### a Computer Science graduate from Toronto Metropolitan University, Canada
 ---
 📖 I’m currently learning more about web application development, machine learning and the various tools available for producing excellent software.
 
