@@ -1,9 +1,9 @@
 ### 👋 Hey! I am Maher Muhtadi
-#### a Computer Science graduate from Toronto Metropolitan University, Canada
+#### a Software Engineering graduate student at Ontario Tech University, Canada
 ---
-📖 I’m currently learning more about web application development, machine learning and the various tools available for producing excellent software.
+📖 I’m currently learning more about web application development and machine learning.
 
-🛠 At the moment, I’m working on a react.js chat application.
+🛠 At the moment, I’m working on a Bank Teller Application with ML assisted fraud detection.
 
 ℹ Learn more about me through my personal portfolio website [https://maher-m.com/](https://maher-m.com/).
 
