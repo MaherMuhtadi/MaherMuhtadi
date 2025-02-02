@@ -1,7 +1,7 @@
 ### 👋 Hey! I am Maher Muhtadi
 #### a Software Engineering graduate student at Ontario Tech University, Canada
 ---
-📖 I’m currently learning about Large Language Models and Cyber Physical Systems.
+📖 I’m currently learning about Dynamic Neural Networks and Cyber Physical Systems.
 
 🛠 At the moment, I’m working on a Bank Teller Application with ML assisted fraud detection.
 
